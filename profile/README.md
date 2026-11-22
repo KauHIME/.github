@@ -15,12 +15,12 @@
 
 | 仓库 | 内容 |
 | --- | --- |
-| [live-archive](https://github.com/hibane-hinome/live-archive) | 逐字稿存档站。**25 场、17 296 条**中日对照，按场次浏览、全库检索 |
-| [LiveTranslate](https://github.com/hibane-hinome/LiveTranslate) | Windows 实时翻译。抓系统声音实时识别并翻译，结果显示在透明置顶悬浮窗；也可接收手机推送的音频 |
-| [LiveTranslateClient](https://github.com/hibane-hinome/LiveTranslateClient) | Android 客户端。把手机上其他应用的声音交给电脑翻译，手机悬浮窗同步显示原文与译文 |
-| [danmaku-it](https://github.com/hibane-hinome/danmaku-it) | B 站弹幕 / SC 采集工具。悬浮弹幕机可看直播、发弹幕，记录可导出 NDJSON / CSV |
-| [live-capture](https://github.com/hibane-hinome/live-capture) | 旧手机上的常驻定时服务。记录直播的弹幕 / SC / 礼物 / 动态与场次切分、录像，网页端管理与导出 |
-| [LiveCaptions-Translator](https://github.com/hibane-hinome/LiveCaptions-Translator) | 读取 Windows 实时字幕并翻译，重写字幕显示（fork） |
+| [live-archive](https://github.com/konohana-saku8/live-archive) | 逐字稿存档站。**25 场、17 296 条**中日对照，按场次浏览、全库检索 |
+| [LiveTranslate](https://github.com/konohana-saku8/LiveTranslate) | Windows 实时翻译。抓系统声音实时识别并翻译，结果显示在透明置顶悬浮窗；也可接收手机推送的音频 |
+| [LiveTranslateClient](https://github.com/konohana-saku8/LiveTranslateClient) | Android 客户端。把手机上其他应用的声音交给电脑翻译，手机悬浮窗同步显示原文与译文 |
+| [danmaku-it](https://github.com/konohana-saku8/danmaku-it) | B 站弹幕 / SC 采集工具。悬浮弹幕机可看直播、发弹幕，记录可导出 NDJSON / CSV |
+| [live-capture](https://github.com/konohana-saku8/live-capture) | 旧手机上的常驻定时服务。记录直播的弹幕 / SC / 礼物 / 动态与场次切分、录像，网页端管理与导出 |
+| [LiveCaptions-Translator](https://github.com/konohana-saku8/LiveCaptions-Translator) | 读取 Windows 实时字幕并翻译，重写字幕显示（fork） |
 
 ## 实时翻译
 
@@ -32,7 +32,7 @@
 
 ## 存档站
 
-<https://hibane-hinome.github.io/live-archive/>
+<https://konohana-saku8.github.io/live-archive/>
 
 每场一份：话题带、目录、逐条日文原文 + 中文译文，支持全库搜索。数据来自 LiveTranslate
 的翻译和 danmaku-it 的弹幕 / SC 记录，整理后发布；数据库本身不入库。
