@@ -1,6 +1,6 @@
 <div align="center">
 
-# 火羽 · 直播档案
+# konohana-saku8
 
 直播间 [live.bilibili.com/22748536](https://live.bilibili.com/22748536) · 主页 [space.bilibili.com/2094031249](https://space.bilibili.com/2094031249)
 
@@ -19,7 +19,7 @@
 | [LiveTranslate](https://github.com/hibane-hinome/LiveTranslate) | Windows 实时翻译（fork）。系统音频 → VAD → ASR → 大模型流式翻译 → 置顶悬浮窗；本仓库增加了逐句时间戳落库、手机远程接入与 ReazonSpeech 引擎 |
 | [LiveTranslateClient](https://github.com/hibane-hinome/LiveTranslateClient) | Android 客户端。抓取其他应用播放的音频推到电脑，复用电脑的 ASR 与翻译，悬浮窗同步显示原文和译文 |
 | [danmaku-it](https://github.com/hibane-hinome/danmaku-it) | 弹幕与 SC 采集，和翻译记录写进同一个 SQLite |
-| [live-capture](https://github.com/hibane-hinome/live-capture) | 手机上的直播采集服务（Termux）。弹幕 / SC / 礼物 / 动态入库，Flask + Vue 网页端管理场次与录像 |
+| [live-capture](https://github.com/hibane-hinome/live-capture) | 旧手机上的常驻定时服务：弹幕 / SC / 礼物 / 动态采集、场次切分与直播录像，Flask + Vue 网页端管理与查阅 |
 | [LiveCaptions-Translator](https://github.com/hibane-hinome/LiveCaptions-Translator) | 基于 Windows LiveCaptions 的轻量实时翻译（fork） |
 
 ## 实时翻译
